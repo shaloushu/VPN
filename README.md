@@ -1,7 +1,7 @@
 # VPN
 翻墙如阿健VPN梯子推荐，适合在中国大陆使用的
 
-<h1 align="center">🌐 放克云 FunkyYun</h1>
+<h1 align="center">🌐 放克云 FunkYun</h1>
 <p align="center">
   🚀 稳定 · 高速 · 安全 · 匿名 —— 面向开发者与极客的专业网络加速服务
 </p>
